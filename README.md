@@ -243,4 +243,4 @@ This repository serves as the official landing page for BitPay. The software is 
 **Get the most recent version of BitPay today!**
 
 ---
-**Last updated:** 2026-10-05 23:43:59 UTC
+**Last updated:** 2026-10-06 04:52:03 UTC
